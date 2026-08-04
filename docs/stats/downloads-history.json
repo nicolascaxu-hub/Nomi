@@ -2263,6 +2263,16 @@
         "v0.1.2": 4,
         "v0.1.1": 21
       }
+    },
+    {
+      "date": "2026-08-04",
+      "total": 0,
+      "byPlatform": {
+        "windows": 0,
+        "macArm": 0,
+        "macIntel": 0
+      },
+      "byVersion": {}
     }
   ]
 }
